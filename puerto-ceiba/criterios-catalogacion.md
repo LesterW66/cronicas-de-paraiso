@@ -13,3 +13,6 @@ Registre el origen exacto o la referencia disponible y enlace IDs de fuentes o d
 
 ## Versiones y derechos
 Registre correcciones en **Historial de versiones**. Conserve crédito y condiciones de uso; use `pendiente de verificar` cuando no se conozcan.
+
+## Trazabilidad
+Aplique la separación de fuente maestra, ficha y materiales derivados definida en [la guía técnica común](../ESTRUCTURA-ACERVO.md). Relacione los materiales mediante IDs del acervo cuando corresponda, sin sustituir la fuente maestra.

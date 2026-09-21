@@ -13,3 +13,6 @@ Indique el medio de acceso y la edición consultada. En **Registros relacionados
 
 ## Versiones y derechos
 Anote correcciones de cita o enlace en **Historial de versiones**. Registre condiciones de acceso y copyright cuando afecten la consulta o reproducción.
+
+## Trazabilidad
+Aplique la separación de fuente maestra, ficha y materiales derivados definida en [la guía técnica común](../ESTRUCTURA-ACERVO.md). Relacione los materiales mediante IDs del acervo cuando corresponda, sin sustituir la fuente maestra.

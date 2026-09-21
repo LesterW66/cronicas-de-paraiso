@@ -13,3 +13,6 @@ Indique propietario, colección o fuente de digitalización según corresponda. 
 
 ## Versiones y derechos
 Registre creación de derivados y correcciones en **Historial de versiones**. No asuma autoría o permiso: marque condiciones desconocidas como `pendiente de verificar`.
+
+## Trazabilidad
+Aplique la separación de fuente maestra, ficha y materiales derivados definida en [la guía técnica común](../ESTRUCTURA-ACERVO.md). Relacione los materiales mediante IDs del acervo cuando corresponda, sin sustituir la fuente maestra.

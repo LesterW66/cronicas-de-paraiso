@@ -13,3 +13,6 @@ Use los IDs de `bibliografia`, `documentos-historicos`, `fuentes-orales` o `foto
 
 ## Versiones y derechos
 Anote cambios sustantivos en **Historial de versiones** con fecha, responsable y motivo. Para material ajeno, conserve el crédito, la procedencia y las condiciones de uso; si se desconocen, marque `pendiente de verificar`.
+
+## Trazabilidad
+Aplique la separación de fuente maestra, ficha y materiales derivados definida en [la guía técnica común](../ESTRUCTURA-ACERVO.md). Relacione los materiales mediante IDs del acervo cuando corresponda, sin sustituir la fuente maestra.

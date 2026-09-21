@@ -13,3 +13,6 @@ Asocie las afirmaciones a IDs de fuente y enumere los vínculos con cronología,
 
 ## Versiones y derechos
 Anote cambios de identificación o semblanza en **Historial de versiones**. Señale restricciones de datos personales y condiciones de uso del material asociado.
+
+## Trazabilidad
+Aplique la separación de fuente maestra, ficha y materiales derivados definida en [la guía técnica común](../ESTRUCTURA-ACERVO.md). Relacione los materiales mediante IDs del acervo cuando corresponda, sin sustituir la fuente maestra.

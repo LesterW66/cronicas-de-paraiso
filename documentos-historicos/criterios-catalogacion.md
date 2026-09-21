@@ -13,3 +13,6 @@ Diferencie propietario, repositorio, donante y fuente de adquisición cuando se 
 
 ## Versiones y derechos
 Registre en **Historial de versiones** cualquier cambio de ficha o archivo derivado. Indique licencia, titular o condición de reproducción; use `pendiente de verificar` si no se conoce.
+
+## Trazabilidad
+Aplique la separación de fuente maestra, ficha y materiales derivados definida en [la guía técnica común](../ESTRUCTURA-ACERVO.md). Relacione los materiales mediante IDs del acervo cuando corresponda, sin sustituir la fuente maestra.

@@ -13,3 +13,6 @@ Cite por ID los registros que sostienen el acontecimiento y enumérelos en **Reg
 
 ## Versiones y derechos
 Mantenga un **Historial de versiones** para cambios de fecha, descripción o fuentes. Respete los derechos indicados en cada fuente relacionada.
+
+## Trazabilidad
+Aplique la separación de fuente maestra, ficha y materiales derivados definida en [la guía técnica común](../ESTRUCTURA-ACERVO.md). Relacione los materiales mediante IDs del acervo cuando corresponda, sin sustituir la fuente maestra.

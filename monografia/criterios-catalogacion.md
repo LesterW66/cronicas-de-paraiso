@@ -13,3 +13,6 @@ Cada afirmación comprobable debe enlazar los IDs de las fuentes en **Registros 
 
 ## Versiones y derechos
 Use versión `v0.x` para borradores y registre los cambios en **Historial de versiones**. Identifique permisos de citas, imágenes y otros materiales antes de publicar.
+
+## Trazabilidad
+Aplique la separación de fuente maestra, ficha y materiales derivados definida en [la guía técnica común](../ESTRUCTURA-ACERVO.md). Relacione los materiales mediante IDs del acervo cuando corresponda, sin sustituir la fuente maestra.
