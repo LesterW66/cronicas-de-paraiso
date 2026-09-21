@@ -13,3 +13,6 @@ Enlace por ID el registro maestro de cada fuente, imagen o testimonio. El conten
 
 ## Versiones y derechos
 Anote cambios editoriales, técnicos o de estado en **Historial de versiones**. No programe publicación de materiales con derechos o consentimiento pendientes.
+
+## Trazabilidad
+Aplique la separación de fuente maestra, ficha y materiales derivados definida en [la guía técnica común](../ESTRUCTURA-ACERVO.md). Relacione los materiales mediante IDs del acervo cuando corresponda, sin sustituir la fuente maestra.

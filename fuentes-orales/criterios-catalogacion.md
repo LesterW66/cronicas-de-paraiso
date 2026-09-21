@@ -13,3 +13,6 @@ Registre quién creó, entregó y custodia el material. Enlace derivados y otros
 
 ## Versiones y derechos
 Mantenga el **Historial de versiones** de ficha y transcripción. Consigne el consentimiento y condiciones de uso antes de compartir cualquier derivado.
+
+## Trazabilidad
+Aplique la separación de fuente maestra, ficha y materiales derivados definida en [la guía técnica común](../ESTRUCTURA-ACERVO.md). Relacione los materiales mediante IDs del acervo cuando corresponda, sin sustituir la fuente maestra.
