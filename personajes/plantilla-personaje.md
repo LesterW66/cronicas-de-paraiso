@@ -19,5 +19,5 @@
 ## Historial de versiones
 | Fecha | Responsable | Cambio |
 | --- | --- | --- |
-| | --- | --- |
+| | | |
 | | | |
